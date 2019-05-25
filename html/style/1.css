@@ -1,0 +1,26 @@
+body,ul,p,h1,h2,h3,h4,dl,dd,form,input,texttarea,select{padding: 0;margin: 0;font-family: Arial;}
+li{list-style: none;}
+img{border:none;}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+body{background:#fff url(../images/1.png) repeat-x;}
+#top{width:1701px;height:54px;margin: 0 auto;}
+.top_menu{float: left;}
+.top_menu li{float: left;background: url(../images/2.png) no-repeat right 24px;font-size: 23.03px;line-height: 54px;padding-right: 32px;margin-right: 25px}
+.top_menu a{color: #c0c0c0;}
+.top_menu a:hover{color: #fff;}
+.top_menu .no_dot{background: none;padding: 0;margin: 0;}
+
+.top_bar{float: right;}
+.top_bar li{float: left;height: 54px;color: #fff;font-weight: bold;font-size: 13px;line-height: 54px;padding:0 45px 0;}
+.top_bar .phone{background: url(../images/2.png) no-repeat 0-10px}
+.top_bar .heip{background: url(../images/2.png) no-repeat 0-50px}
+.top_bar .heip a {color: #fff;}
+
+
+#header{width: 960px;height: 176px;margin: 0 auto;}
+#shopping{width: 460px;height: 176px;background: url(../images/6.png) no-repeat;bottom: 1px solid #fff;}
+#shopping p{color: #f7f7f7;font-size: 35px;font-family: Arial;padding: 95px 0 0 151px;}
+#shopping a{display:block;width: 114px;height: 23px;background: url(../images/6.png) no-repeat 0 -100px;}
+
+#header h1{}
